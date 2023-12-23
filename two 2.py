@@ -1,0 +1,11 @@
+a=45
+b=60
+c=50
+d=55
+e=10
+f=75
+g=100
+print(a-b)
+print(b-a+c)
+print(g*c)
+print(a+b+c+d+e+f+g)
